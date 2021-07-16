@@ -1559,8 +1559,8 @@ command:
       tamed: '&e已馴化: &6[state]'
       owner: '&e主人: &6[playerDisplayName]'
       grows: '&eGrows up in: &6[time]'
-      horse: '&eHorse: &6[jump]&eblocks &6[speed]&eblocks/sec'
-      villager: '&eProfession: &7[profession] &eLvl: &7[lvl] &eType: &7[type]'
+      horse: '&e跳躍能力:&6[jump]&e格 &e移動速度：&6[speed]&e格/秒'
+      villager: '&e職業: &7[profession] &e等級: &7[lvl] &e類型: &7[type]'
   entitynbt:
     help:
       info: '&e查詢實體NBT資訊'
